@@ -1,0 +1,36 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    background-color: pink;
+    
+}
+  
+
+h2 {
+    color: aquamarine;
+    background-image: url('https://picsum.photos/500/700');
+    height: 400px;
+    background-repeat: no-repeat;
+}
+
+
+h1:hover {
+background-color: #2e6c71;
+}
+
+h3 {
+    color: chartreuse;
+}
+
+.data-analyst {
+    color: brown;
+}
+
+.chatgpt {
+    color: #45e8aa;
+}
